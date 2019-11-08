@@ -1,3 +1,4 @@
+# React-
   下载node_modules目录
   在根目录下启动 命令窗口 
 	输入 yarn build    打包项目
